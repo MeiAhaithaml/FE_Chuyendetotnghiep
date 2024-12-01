@@ -1,0 +1,24 @@
+class AppRoutesNames{
+  static const String WELCOME = "/";
+  static const String SIGN_IN = "/sign_in";
+  static const String REGISTER = "/register";
+  static const String APPLICATION = "/application";
+  static const String HOME = "/home";
+  static const String COURSE_DETAIL = "/course_detail";
+  static const String LESSON_DETAIL = "/lesson_detail";
+  static const String BUY_COURSE = '/buy_course';
+  static const String SETTINGS = '/settings';
+  static const String COURSES_BOUGHT = '/courses_bought';
+  static const String AUTHOR_PAGE = "/author_page";
+  static const String CHAT_PAGE = "/chat_page";
+  static const String PHOTO = "/photo_page";
+  static const String VIDEO_CALL = "/video_call";
+  static const String MESSAGE = "/message";
+  static const String SIGN_IN_ADMIN = "/sign_in_admin";
+  static const String All_COURSES = "/allCourse";
+  static const String ADMIN_APPLIACTION = "/admin_application";
+  static const String CHANGE_PASSWORD = "/change_password";
+  static const String FAVORITE = "/favorite";
+  static const String FORGET = "/forget";
+
+}

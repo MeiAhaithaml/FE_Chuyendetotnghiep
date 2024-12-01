@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "773473561407",
+    "project_id": "study-app-dab6f",
+    "storage_bucket": "study-app-dab6f.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:773473561407:android:0e4c95fb0fdb1f9be5418a",
+        "android_client_info": {
+          "package_name": "com.example.study_app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDSyhACSqm7ZF8_H2u-ZcBmWzTmGPUDqDs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
